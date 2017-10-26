@@ -1,10 +1,10 @@
-# pulsedata
+# Vue.JS Test
 
 > A Vue.js project
 
 ```bash
 # Clone repo
-cd pulseData
+cd vue-test
 ```
 
 ```bash
