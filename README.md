@@ -1,5 +1,7 @@
 # Vue.JS Test
 
+![Demo](src/assets/demo.gif)
+
 > A Vue.js project
 
 ```bash

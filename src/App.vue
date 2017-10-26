@@ -67,6 +67,7 @@ body, html {
 .charts {
   flex: 1 100%;
   overflow: auto;
+  max-width: 1500px;
 }
 .chart {
   max-width: 90%
@@ -74,5 +75,6 @@ body, html {
 .diagnosis {
   flex: 1 100%;
   overflow: auto;
+  max-width: 1500px;
 }
 </style>
